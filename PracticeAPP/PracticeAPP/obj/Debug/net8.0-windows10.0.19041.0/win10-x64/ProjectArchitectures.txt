@@ -1,0 +1,1 @@
+C:\Repository\MAUI\PracticeAPP\PracticeAPP\PracticeAPP.csproj;x64
